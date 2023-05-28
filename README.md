@@ -1,9 +1,14 @@
 **Introduction**
-Item Name : Awais Ahmed Khan | Portfolio
-Item Version : v 1.0.1
-Skype : awaisahmed.spyko
-Author : Awais Ahmed Khan
-Support Email : info@awaiskhan.dev
+
+**Item Name :** Awais Ahmed Khan | Portfolio
+
+**Item Version :** v 1.0.1
+
+**Skype :** awaisahmed.spyko
+
+**Author :** Awais Ahmed Khan
+
+**Support Email :** info@awaiskhan.dev
 
 This documentation is to help you regarding each step of customization. Please go through the documentation carefully to understand how this template is made and how to edit this properly. Basic HTML and CSS knowledge is required to customize this template. You may learn basics here, here and here.
 

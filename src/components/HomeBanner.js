@@ -36,18 +36,13 @@ const HomeBanner = () => {
                   </div>
                   <ul className="social-icons">
                     <li>
-                      <a className="facebook" href="#">
-                        <i className="fab fa-facebook-f" />
+                      <a className="instagram" href="#">
+                        <i className="fab fa-instagram" />
                       </a>
                     </li>{" "}
                     <li>
-                      <a className="twitter" href="#">
-                        <i className="fab fa-twitter" />
-                      </a>
-                    </li>{" "}
-                    <li>
-                      <a className="google" href="#">
-                        <i className="fab fa-google-plus-g" />
+                      <a className="github" href="#">
+                        <i className="fab fa-github" />
                       </a>
                     </li>{" "}
                     <li>
